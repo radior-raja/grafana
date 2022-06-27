@@ -5920,8 +5920,8 @@ exports[`better eslint`] = {
       [352, 12, 26, "Do not use any type assertions.", "2149993731"],
       [352, 35, 3, "Unexpected any. Specify a different type.", "193409811"]
     ],
-    "public/app/features/explore/state/query.ts:4062275127": [
-      [344, 12, 3, "Unexpected any. Specify a different type.", "193409811"]
+    "public/app/features/explore/state/query.ts:2699273851": [
+      [328, 12, 3, "Unexpected any. Specify a different type.", "193409811"]
     ],
     "public/app/features/explore/state/time.test.ts:2790808952": [
       [27, 6, 59, "Do not use any type assertions.", "3685154675"],
