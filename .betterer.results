@@ -3943,8 +3943,8 @@ exports[`better eslint`] = {
       [20, 51, 24, "Do not use any type assertions.", "355258266"],
       [62, 12, 3, "Unexpected any. Specify a different type.", "193409811"]
     ],
-    "public/app/core/utils/richHistory.ts:1044796315": [
-      [247, 31, 3, "Unexpected any. Specify a different type.", "193409811"]
+    "public/app/core/utils/richHistory.ts:3361981645": [
+      [250, 31, 3, "Unexpected any. Specify a different type.", "193409811"]
     ],
     "public/app/core/utils/ticks.ts:1452198337": [
       [73, 39, 3, "Unexpected any. Specify a different type.", "193409811"],
