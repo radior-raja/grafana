@@ -4585,9 +4585,9 @@ exports[`better eslint`] = {
     "public/app/features/canvas/runtime/root.tsx:2845174121": [
       [24, 19, 36, "Do not use any type assertions.", "1413431594"]
     ],
-    "public/app/features/canvas/runtime/scene.tsx:2928385813": [
-      [155, 61, 25, "Do not use any type assertions.", "588553285"],
-      [160, 42, 25, "Do not use any type assertions.", "588553285"]
+    "public/app/features/canvas/runtime/scene.tsx:1375864257": [
+      [157, 61, 25, "Do not use any type assertions.", "588553285"],
+      [162, 42, 25, "Do not use any type assertions.", "588553285"]
     ],
     "public/app/features/comments/CommentView.tsx:3338885322": [
       [31, 20, 32, "Do not use any type assertions.", "3501587761"]
@@ -10960,12 +10960,12 @@ exports[`better eslint`] = {
       [197, 15, 18, "Do not use any type assertions.", "3407005619"],
       [200, 15, 18, "Do not use any type assertions.", "516790078"]
     ],
-    "public/app/plugins/panel/canvas/CanvasContextMenu.tsx:1200380152": [
+    "public/app/plugins/panel/canvas/CanvasContextMenu.tsx:2767170725": [
       [31, 33, 47, "Do not use any type assertions.", "3512730894"]
     ],
-    "public/app/plugins/panel/canvas/CanvasPanel.tsx:4244563785": [
+    "public/app/plugins/panel/canvas/CanvasPanel.tsx:1106212612": [
       [39, 31, 18, "Do not use any type assertions.", "3890263992"],
-      [81, 24, 28, "Do not use any type assertions.", "4099457225"]
+      [82, 24, 28, "Do not use any type assertions.", "4099457225"]
     ],
     "public/app/plugins/panel/canvas/InlineEdit.tsx:2513249821": [
       [52, 29, 3, "Unexpected any. Specify a different type.", "193409811"],
