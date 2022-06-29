@@ -3880,20 +3880,20 @@ exports[`better eslint`] = {
       [330, 19, 3, "Unexpected any. Specify a different type.", "193409811"],
       [366, 19, 3, "Unexpected any. Specify a different type.", "193409811"]
     ],
-    "public/app/core/utils/explore.ts:1568371521": [
-      [142, 13, 14, "Do not use any type assertions.", "1862451098"],
-      [142, 24, 3, "Unexpected any. Specify a different type.", "193409811"],
-      [176, 46, 3, "Unexpected any. Specify a different type.", "193409811"],
-      [188, 42, 3, "Unexpected any. Specify a different type.", "193409811"],
-      [219, 21, 3, "Unexpected any. Specify a different type.", "193409811"],
-      [311, 25, 3, "Unexpected any. Specify a different type.", "193409811"],
-      [423, 42, 15, "Do not use any type assertions.", "2415286282"],
-      [423, 54, 3, "Unexpected any. Specify a different type.", "193409811"],
-      [424, 37, 15, "Do not use any type assertions.", "2415286282"],
-      [424, 49, 3, "Unexpected any. Specify a different type.", "193409811"],
-      [429, 42, 3, "Unexpected any. Specify a different type.", "193409811"],
-      [429, 48, 3, "Unexpected any. Specify a different type.", "193409811"],
-      [450, 33, 3, "Unexpected any. Specify a different type.", "193409811"]
+    "public/app/core/utils/explore.ts:3143135451": [
+      [143, 13, 14, "Do not use any type assertions.", "1862451098"],
+      [143, 24, 3, "Unexpected any. Specify a different type.", "193409811"],
+      [177, 46, 3, "Unexpected any. Specify a different type.", "193409811"],
+      [189, 42, 3, "Unexpected any. Specify a different type.", "193409811"],
+      [220, 21, 3, "Unexpected any. Specify a different type.", "193409811"],
+      [313, 25, 3, "Unexpected any. Specify a different type.", "193409811"],
+      [425, 42, 15, "Do not use any type assertions.", "2415286282"],
+      [425, 54, 3, "Unexpected any. Specify a different type.", "193409811"],
+      [426, 37, 15, "Do not use any type assertions.", "2415286282"],
+      [426, 49, 3, "Unexpected any. Specify a different type.", "193409811"],
+      [431, 42, 3, "Unexpected any. Specify a different type.", "193409811"],
+      [431, 48, 3, "Unexpected any. Specify a different type.", "193409811"],
+      [452, 33, 3, "Unexpected any. Specify a different type.", "193409811"]
     ],
     "public/app/core/utils/fetch.test.ts:3489769741": [
       [12, 6, 56, "Do not use any type assertions.", "1444712415"],
@@ -5914,7 +5914,7 @@ exports[`better eslint`] = {
       [352, 12, 26, "Do not use any type assertions.", "2149993731"],
       [352, 35, 3, "Unexpected any. Specify a different type.", "193409811"]
     ],
-    "public/app/features/explore/state/query.ts:4245920628": [
+    "public/app/features/explore/state/query.ts:4185830135": [
       [337, 12, 3, "Unexpected any. Specify a different type.", "193409811"]
     ],
     "public/app/features/explore/state/time.test.ts:2790808952": [
